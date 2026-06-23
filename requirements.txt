@@ -3,3 +3,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+python
+data-cleaning
+data-preprocessing
+automation
+reporting
+pandas
+data-analysis
+superstore
